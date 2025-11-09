@@ -186,15 +186,6 @@ lib/
 - Emülatörde konum servisleri için manuel konum ayarı gerekebilir
 - İlk konum izni isteği Android'de bazen gecikebilir
 
-## 🚧 Gelecek Özellikler
-
-- [ ] Bildirimler (hava durumu uyarıları)
-- [ ] Widget desteği
-- [ ] Karanlık mod
-- [ ] Favori şehirler
-- [ ] Hava durumu haritası
-- [ ] Hava kalitesi bilgisi
-
 ## 📝 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır.
@@ -228,19 +219,3 @@ Bu proje Flutter ve modern yazılım geliştirme pratikleri kullanılarak geliş
 - Smooth animations
 - Loading states
 - Error states
-
-## 🤝 Katkıda Bulunma
-
-1. Fork edin
-2. Feature branch oluşturun (`git checkout -b feature/amazing-feature`)
-3. Commit edin (`git commit -m 'Add some amazing feature'`)
-4. Push edin (`git push origin feature/amazing-feature`)
-5. Pull Request açın
-
-## 📞 İletişim
-
-Sorularınız veya önerileriniz için issue açabilirsiniz.
-
----
-
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
