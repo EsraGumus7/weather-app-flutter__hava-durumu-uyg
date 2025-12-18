@@ -28,31 +28,34 @@ A modern and user-friendly Flutter weather application. It provides up-to-date w
 
 <table align="center">
   <tr>
-    <td align="center">
-      <img src="images/hava1.png" width="220"/><br/>
+    <td align="center" style="padding: 15px;">
+      <img src="images/hava1.png" width="250"/><br/>
       <strong>Home Screen</strong><br/>
       Weather summaries for popular cities with quick access to details.
     </td>
-    <td align="center">
-      <img src="images/hava2.png" width="220"/><br/>
-      <strong>City Details</strong><br/>
-      Detailed current weather including temperature, humidity, and wind.
+    <td align="center" style="padding: 15px;">
+      <img src="images/hava2.png" width="250"/><br/>
+      <strong>City Search</strong><br/>
+      Users can search for any city and instantly view detailed weather information.
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="images/hava3.png" width="220"/><br/>
-      <strong>Daily Forecast</strong><br/>
+    <td align="center" style="padding: 15px;">
+      <img src="images/hava3.png" width="250"/><br/>
+      <strong>City Details & Daily Forecast</strong><br/>
+      Detailed current weather including temperature, humidity, and wind.<br/>
       6-day weather forecast with temperature trends.
     </td>
-    <td align="center">
-      <img src="images/hava4.png" width="220"/><br/>
+    <td align="center" style="padding: 5px;">
+      <img src="images/hava4.png" width="250"/><br/>
       <strong>Hourly Forecast</strong><br/>
       Clear 24-hour hourly weather forecast.
     </td>
-    
   </tr>
 </table>
+
+
+
 
 
 ## ✨ Features
