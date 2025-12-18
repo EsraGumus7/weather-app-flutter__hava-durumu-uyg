@@ -1,3 +1,39 @@
+📸 Screenshots
+<div align="center">
+
+  <figure style="display:inline-block; margin:10px;">
+    <img src="images/hava1.png" alt="Home Screen" width="200"/>
+    <figcaption>
+      <strong>Home Screen</strong><br/>
+      Displays weather summaries for popular cities with quick access to details.
+    </figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px;">
+    <img src="images/hava2.png" alt="City Details" width="200"/>
+    <figcaption>
+      <strong>City Details</strong><br/>
+      Shows detailed current weather including temperature, humidity, and wind.
+    </figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px;">
+    <img src="images/hava3.png" alt="Hourly Forecast" width="200"/>
+    <figcaption>
+      <strong>Hourly Forecast</strong><br/>
+      Provides a clear 24-hour hourly weather forecast.
+    </figcaption>
+  </figure>
+
+  <figure style="display:inline-block; margin:10px;">
+    <img src="images/hava4.png" alt="Daily Forecast" width="200"/>
+    <figcaption>
+      <strong>Daily Forecast</strong><br/>
+      Presents a 6-day forecast with temperature trends and conditions.
+    </figcaption>
+  </figure>
+
+</div>
 
 
 # 🌤️ Weather Application
